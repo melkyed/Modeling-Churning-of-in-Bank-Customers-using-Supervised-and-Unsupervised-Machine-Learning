@@ -1,0 +1,10 @@
+"","Variable","LogOfOdds"
+"1","(Intercept)",0.033
+"2","CreditScore",0.999
+"3","GeographyGermany",2.21
+"4","GeographySpain",1.062
+"5","GenderMale",0.604
+"6","Age",1.064
+"7","Balance",1
+"8","NumOfProducts",0.88
+"9","EstimatedSalary",1

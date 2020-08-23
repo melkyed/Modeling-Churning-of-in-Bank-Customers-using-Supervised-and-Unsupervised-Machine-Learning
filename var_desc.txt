@@ -9,7 +9,7 @@ Unique Ids for bank customer identification
 Surname
 
 Customer's last name
-CreditScore
+CreditScore 
 
 Credit score of the customer
 Geography
